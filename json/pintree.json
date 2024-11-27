@@ -126,21 +126,134 @@
       {
         "type": "folder",
         "addDate": 1732722513071,
-        "title": "经常获取信息 ",
-        "children": []
-      },
-      {
-        "type": "link",
-        "addDate": 1712387827423,
-        "title": "★快速收藏",
-        "icon": "https://logo.clearbit.com/",
-        "url": "javascript:var url = location.href;var title = document.title;var desc = '';if (document.getSelection) {  desc = document.getSelection();};if (desc.toString().length === 0) {  let descTag = document.querySelector('[name=description]');  desc = descTag ?%20descTag.getAttribute(%27content%27)%20:%20%27%27;};if%20(desc.length%20%3E%20500)%20{%20%20desc%20=%20desc.slice(0,%20500)%20+%20%27...%27;};void(%20%20open(%20%20%20%20%27https://cubox.pro/my/tool/collection?url=%27%20+%20encodeURIComponent(url)%20+%20%27&title=%27%20+%20encodeURIComponent(title)%20+%20%27&description=%27%20+%20encodeURIComponent(desc)%20+%20%27&groupId=%27%20+%20%27&tags=%27%20+%20%27&starTarget=false%27%20+%20%27&editable=false%27,%20%20%20%20%27cubox%27,%20%20%20%20%27toolbar=no,%20%20%20%20resizable=no,%20%20%20%20location=no,%20%20%20%20menubar=no,%20%20%20%20width=300,%20%20%20%20height=100%27,%20%20));"
+        "title": "获取信息 ",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1732723449639,
+            "title": "每日查看",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732722470930,
+                "title": "Twitter",
+                "icon": "https://logo.clearbit.com/twitter.com",
+                "url": "https://twitter.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470930,
+                "title": "Medium – Read, write and share stories that matter",
+                "icon": "https://logo.clearbit.com/medium.com",
+                "url": "https://medium.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470930,
+                "title": "Reddit - 潜入任何事物 --- Reddit - Dive into anything",
+                "icon": "https://logo.clearbit.com/www.reddit.com",
+                "url": "https://www.reddit.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "黑客新闻 --- Hacker News",
+                "icon": "https://logo.clearbit.com/news.ycombinator.com",
+                "url": "https://news.ycombinator.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "微博",
+                "icon": "https://logo.clearbit.com/weibo.com",
+                "url": "http://weibo.com/u/3923414292/home?wvr=5&sudaref=www.baidu.com"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1732723455629,
+            "title": "每周查看",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "ByteByteGo Newsletter | Alex Xu | Substack",
+                "icon": "https://logo.clearbit.com/blog.bytebytego.com",
+                "url": "https://blog.bytebytego.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1732723462825,
+            "title": "每月查看",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "开源中国",
+                "icon": "https://logo.clearbit.com/www.oschina.net",
+                "url": "http://www.oschina.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "美团技术团队",
+                "icon": "https://logo.clearbit.com/tech.meituan.com",
+                "url": "https://tech.meituan.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "开发者头条 - 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻",
+                "icon": "https://logo.clearbit.com/toutiao.io",
+                "url": "https://toutiao.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "CodeProject ",
+                "icon": "https://logo.clearbit.com/www.codeproject.com",
+                "url": "http://www.codeproject.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "Explore GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/explore"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732722470931,
+                "title": "TechCrunch | Startup and Technology News",
+                "icon": "https://logo.clearbit.com/techcrunch.com",
+                "url": "https://techcrunch.com/"
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "folder",
         "addDate": 1732718475096,
         "title": "1.项目 ",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1732722437012,
+            "title": "Excalidraw",
+            "icon": "https://logo.clearbit.com/excalidraw.com",
+            "url": "https://excalidraw.com/"
+          },
           {
             "type": "folder",
             "addDate": 1732721313957,
@@ -196,13 +309,6 @@
                 "url": "https://www.dedao.cn/ebook/detail?id=bODoM61kAj9Rql84gzG5nVNZopXKY3Dq9pJwJLrBmEDv2QPMOyx7a6e1dbPQj2Zd"
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1732722437012,
-            "title": "Excalidraw",
-            "icon": "https://logo.clearbit.com/excalidraw.com",
-            "url": "https://excalidraw.com/"
           }
         ]
       },
@@ -1771,123 +1877,11 @@
                 ]
               },
               {
-                "type": "folder",
-                "addDate": 1732722470930,
-                "title": "技术资讯",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1732722470930,
-                    "title": "Twitter",
-                    "icon": "https://logo.clearbit.com/twitter.com",
-                    "url": "https://twitter.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470930,
-                    "title": "(1) Quora",
-                    "icon": "https://logo.clearbit.com/www.quora.com",
-                    "url": "https://www.quora.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470930,
-                    "title": "Medium – Read, write and share stories that matter",
-                    "icon": "https://logo.clearbit.com/medium.com",
-                    "url": "https://medium.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470930,
-                    "title": "Stack Overflow",
-                    "icon": "https://logo.clearbit.com/stackoverflow.com",
-                    "url": "http://stackoverflow.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470930,
-                    "title": "Reddit - 潜入任何事物 --- Reddit - Dive into anything",
-                    "icon": "https://logo.clearbit.com/www.reddit.com",
-                    "url": "https://www.reddit.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "微博",
-                    "icon": "https://logo.clearbit.com/weibo.com",
-                    "url": "http://weibo.com/u/3923414292/home?wvr=5&sudaref=www.baidu.com"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "黑客新闻 --- Hacker News",
-                    "icon": "https://logo.clearbit.com/news.ycombinator.com",
-                    "url": "https://news.ycombinator.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "Explore GitHub",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/explore"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "开源中国",
-                    "icon": "https://logo.clearbit.com/www.oschina.net",
-                    "url": "http://www.oschina.net/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "美团技术团队",
-                    "icon": "https://logo.clearbit.com/tech.meituan.com",
-                    "url": "https://tech.meituan.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "开发者头条 - 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻",
-                    "icon": "https://logo.clearbit.com/toutiao.io",
-                    "url": "https://toutiao.io/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "CodeProject ",
-                    "icon": "https://logo.clearbit.com/www.codeproject.com",
-                    "url": "http://www.codeproject.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "TechCrunch | Startup and Technology News",
-                    "icon": "https://logo.clearbit.com/techcrunch.com",
-                    "url": "https://techcrunch.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "ByteByteGo Newsletter | Alex Xu | Substack",
-                    "icon": "https://logo.clearbit.com/blog.bytebytego.com",
-                    "url": "https://blog.bytebytego.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "HelloGitHub",
-                    "icon": "https://logo.clearbit.com/hellogithub.com",
-                    "url": "https://hellogithub.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732722470931,
-                    "title": "Pintree",
-                    "icon": "https://logo.clearbit.com/jonychen95.github.io",
-                    "url": "https://jonychen95.github.io/pintree/"
-                  }
-                ]
+                "type": "link",
+                "addDate": 1732723966416,
+                "title": "Developer Roadmaps",
+                "icon": "https://logo.clearbit.com/roadmap.sh",
+                "url": "https://roadmap.sh/"
               }
             ]
           }
@@ -4518,6 +4512,13 @@
                     "title": "Free Faces",
                     "icon": "https://logo.clearbit.com/www.freefaces.gallery",
                     "url": "https://www.freefaces.gallery/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723257883,
+                    "title": "Pintree (1)",
+                    "icon": "https://logo.clearbit.com/jonychen95.github.io",
+                    "url": "https://jonychen95.github.io/pintree/"
                   }
                 ]
               },
@@ -8144,160 +8145,6 @@
           },
           {
             "type": "folder",
-            "addDate": 1732720915085,
-            "title": "程序员必上",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1732720915086,
-                "title": "编程资讯",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "开发者头条 - 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻",
-                    "icon": "https://logo.clearbit.com/toutiao.io",
-                    "url": "https://toutiao.io/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "开源中国",
-                    "icon": "https://logo.clearbit.com/www.oschina.net",
-                    "url": "http://www.oschina.net/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "GitChat",
-                    "icon": "https://logo.clearbit.com/gitbook.cn",
-                    "url": "https://gitbook.cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "CSDN.NET",
-                    "icon": "https://logo.clearbit.com/www.csdn.net",
-                    "url": "http://www.csdn.net/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "掘金 - juejin.im - 一个帮助开发者成长的社区",
-                    "icon": "https://logo.clearbit.com/juejin.im",
-                    "url": "https://juejin.im/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "SegmentFault 思否",
-                    "icon": "https://logo.clearbit.com/segmentfault.com",
-                    "url": "https://segmentfault.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "InfoQ - 促进软件开发领域知识与创新的传播",
-                    "icon": "https://logo.clearbit.com/www.infoq.com",
-                    "url": "http://www.infoq.com/cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "51CTO.COM ",
-                    "icon": "https://logo.clearbit.com/www.51cto.com",
-                    "url": "https://www.51cto.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "Home - TIOBE",
-                    "icon": "https://logo.clearbit.com/www.tiobe.com",
-                    "url": "https://www.tiobe.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "Designer News",
-                    "icon": "https://logo.clearbit.com/www.designernews.co",
-                    "url": "https://www.designernews.co/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1732720915086,
-                    "title": "MIT Technology Review",
-                    "icon": "https://logo.clearbit.com/www.technologyreview.com",
-                    "url": "https://www.technologyreview.com/"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "CodeProject ",
-                "icon": "https://logo.clearbit.com/www.codeproject.com",
-                "url": "http://www.codeproject.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "Gitee",
-                "icon": "https://logo.clearbit.com/gitee.com",
-                "url": "https://gitee.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "Stack Overflow",
-                "icon": "https://logo.clearbit.com/stackoverflow.com",
-                "url": "http://stackoverflow.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "Docker Hub",
-                "icon": "https://logo.clearbit.com/hub.docker.com",
-                "url": "https://hub.docker.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
-                "icon": "https://logo.clearbit.com/dribbble.com",
-                "url": "https://dribbble.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "Medium – Read, write and share stories that matter",
-                "icon": "https://logo.clearbit.com/medium.com",
-                "url": "https://medium.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "项目 · 动态 · 仪表板 · GitCode",
-                "icon": "https://logo.clearbit.com/gitcode.net",
-                "url": "https://gitcode.net/dashboard/projects/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1732720915086,
-                "title": "GitHub Copilot · Your AI pair programmer",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/features/copilot"
-              }
-            ]
-          },
-          {
-            "type": "folder",
             "addDate": 1732720649130,
             "title": "Blog",
             "children": [
@@ -9591,6 +9438,167 @@
         "addDate": 1702474063851,
         "title": "5.资源",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1732723617873,
+            "title": "程序员必上",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1732723617873,
+                "title": "编程资讯",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "开发者头条 - 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻",
+                    "icon": "https://logo.clearbit.com/toutiao.io",
+                    "url": "https://toutiao.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "开源中国",
+                    "icon": "https://logo.clearbit.com/www.oschina.net",
+                    "url": "http://www.oschina.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "GitChat",
+                    "icon": "https://logo.clearbit.com/gitbook.cn",
+                    "url": "https://gitbook.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "CSDN.NET",
+                    "icon": "https://logo.clearbit.com/www.csdn.net",
+                    "url": "http://www.csdn.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "掘金 - juejin.im - 一个帮助开发者成长的社区",
+                    "icon": "https://logo.clearbit.com/juejin.im",
+                    "url": "https://juejin.im/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "SegmentFault 思否",
+                    "icon": "https://logo.clearbit.com/segmentfault.com",
+                    "url": "https://segmentfault.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "InfoQ - 促进软件开发领域知识与创新的传播",
+                    "icon": "https://logo.clearbit.com/www.infoq.com",
+                    "url": "http://www.infoq.com/cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617873,
+                    "title": "51CTO.COM ",
+                    "icon": "https://logo.clearbit.com/www.51cto.com",
+                    "url": "https://www.51cto.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617874,
+                    "title": "Home - TIOBE",
+                    "icon": "https://logo.clearbit.com/www.tiobe.com",
+                    "url": "https://www.tiobe.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617874,
+                    "title": "Designer News",
+                    "icon": "https://logo.clearbit.com/www.designernews.co",
+                    "url": "https://www.designernews.co/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732723617874,
+                    "title": "MIT Technology Review",
+                    "icon": "https://logo.clearbit.com/www.technologyreview.com",
+                    "url": "https://www.technologyreview.com/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "CodeProject ",
+                "icon": "https://logo.clearbit.com/www.codeproject.com",
+                "url": "http://www.codeproject.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "Gitee",
+                "icon": "https://logo.clearbit.com/gitee.com",
+                "url": "https://gitee.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "Stack Overflow",
+                "icon": "https://logo.clearbit.com/stackoverflow.com",
+                "url": "http://stackoverflow.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "Docker Hub",
+                "icon": "https://logo.clearbit.com/hub.docker.com",
+                "url": "https://hub.docker.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
+                "icon": "https://logo.clearbit.com/dribbble.com",
+                "url": "https://dribbble.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "Medium – Read, write and share stories that matter",
+                "icon": "https://logo.clearbit.com/medium.com",
+                "url": "https://medium.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "项目 · 动态 · 仪表板 · GitCode",
+                "icon": "https://logo.clearbit.com/gitcode.net",
+                "url": "https://gitcode.net/dashboard/projects/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723617874,
+                "title": "GitHub Copilot · Your AI pair programmer",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/features/copilot"
+              },
+              {
+                "type": "link",
+                "addDate": 1732723650159,
+                "title": "(1) Quora",
+                "icon": "https://logo.clearbit.com/www.quora.com",
+                "url": "https://www.quora.com/"
+              }
+            ]
+          },
           {
             "type": "folder",
             "addDate": 1702474063851,
@@ -11202,6 +11210,13 @@
             ]
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1712387827423,
+        "title": "★快速收藏",
+        "icon": "https://logo.clearbit.com/",
+        "url": "javascript:var url = location.href;var title = document.title;var desc = '';if (document.getSelection) {  desc = document.getSelection();};if (desc.toString().length === 0) {  let descTag = document.querySelector('[name=description]');  desc = descTag ?%20descTag.getAttribute(%27content%27)%20:%20%27%27;};if%20(desc.length%20%3E%20500)%20{%20%20desc%20=%20desc.slice(0,%20500)%20+%20%27...%27;};void(%20%20open(%20%20%20%20%27https://cubox.pro/my/tool/collection?url=%27%20+%20encodeURIComponent(url)%20+%20%27&title=%27%20+%20encodeURIComponent(title)%20+%20%27&description=%27%20+%20encodeURIComponent(desc)%20+%20%27&groupId=%27%20+%20%27&tags=%27%20+%20%27&starTarget=false%27%20+%20%27&editable=false%27,%20%20%20%20%27cubox%27,%20%20%20%20%27toolbar=no,%20%20%20%20resizable=no,%20%20%20%20location=no,%20%20%20%20menubar=no,%20%20%20%20width=300,%20%20%20%20height=100%27,%20%20));"
       }
     ]
   }
